@@ -33,7 +33,7 @@ for (let index = 0; index < array1.length; index++) {
             } 
         }
     }
-     return console.log("los elementos que coinciden son: "+ coincidencia);
+     return console.log("\n los elementos que coinciden son: "+ coincidencia + "\n");
 }
 
 comparar(numero1,numero2)
