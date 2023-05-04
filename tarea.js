@@ -2,7 +2,8 @@
 /* aqui vamos a comenzar a hacer la trea en el orden de los ejercicios  */
 
 /* ejercicio 1 */
-/* function piramide(numero){
+
+function piramide(numero){
     numeros = []
     for(let i = 1; i <= numero; i++){
         numeros.push(i);
@@ -12,10 +13,10 @@
 }
 piramide(6)
 piramide(3)
- */
+ 
 /* Ejercicio 2 */
 
-/* let numero1 = [1,2,3,4,5,false,true,"pera", "kiwi"]
+let numero1 = [1,2,3,4,5,false,true,"pera", "kiwi"]
 let numero2 = [1,6,7,3,4,true,"pera", "durazno"]
 let cosas1 = ["pelota de tenis",1,4,10,167,true]
 let cosas2 = ["pelota de tenis",5,34,4,1,19,167,true,false]
@@ -36,7 +37,7 @@ for (let index = 0; index < array1.length; index++) {
 }
 
 comparar(numero1,numero2)
-comparar(cosas1,cosas2)   */
+comparar(cosas1,cosas2)  
 
 /* Ejercicio 3-a-b-c*/
 

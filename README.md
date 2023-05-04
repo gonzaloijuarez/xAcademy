@@ -1,7 +1,7 @@
 # xAcademy
-Repositorio dedicado a xAcademy para proyectos y actividades solicitadas
 
-¡estamos aprendiendo a usar github! 
+En esta rama se trabajaron los ejercicios pedidos de javascript
 
-realizando cambios de forma local
+Se pudieron realizar con exito todos 
 
+Saludos
